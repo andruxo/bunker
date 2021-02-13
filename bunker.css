@@ -1,0 +1,44 @@
+td{
+    width: 400px;
+    color: blue;
+    background-color: rgba(65, 156, 43, 0.452);
+}
+h1{
+    text-align: center;
+    color: #00ff00
+}
+table{
+    background-color: rgba(65, 156, 43, 0.452);
+}
+h2{
+    letter-spacing: 1,5pt;
+    font-style: italic;
+    color: #00ffff
+}
+li{
+    font-style: oblique;
+    font-size: 15pt;
+    color: #00ff00;
+    list-style-type: square;
+}
+.v1{
+    text-align: left;
+    margin-right: 10pt;
+    color: red;
+}
+
+a{
+    text-align: center;
+    color: #ff3333;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    font-style: italic;
+    margin: 300pt;
+}
+span{
+    color: red;
+}
+body{
+    background: url(https://thespaces.com/wp-content/uploads/2015/12/Vivos-bunker-7-1050x663.jpg) no-repeat center/cover;
+}
