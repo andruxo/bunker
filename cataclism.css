@@ -1,0 +1,13 @@
+h1{
+    color: #00ffff;
+    font-style: italic;
+}
+body{
+    background: url() no-repeat  center/cover;
+
+}
+p{
+    color: #00ffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:15pt;
+}
