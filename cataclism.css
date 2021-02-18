@@ -1,17 +1,15 @@
-h1{
+body>h1{
     color: #00ffff;
     font-style: italic;
-}
-body{
-    background: url(https://static6.depositphotos.com/1002818/543/i/600/depositphotos_5433720-stock-photo-radiation-danger-zone.jpg://sun9-17.userapi.com/impf/inq0eJ7a6H3Dbtsx4irezDmAxCxEONfqF_Jq5w/8GneZjGz1uY.jpg?size=1536x1024&quality=96&proxy=1&sign=4303d5409d198317566cbfdb3b0a57ff&type=album) no-repeat  center/cover;
-    height: 100%;
     position: relative;
-    bottom: 100%;
-    margin-top: 250pt;
     
-   
     
 }
+h1{
+    color: #00ffff;
+    text-align: center;
+}
+
 p{
     color: #00ffff;
     font-family: 'Courier New', Courier, monospace;
@@ -19,7 +17,14 @@ p{
     
 }
 h2{
-    color: aqua;
+    color: aqua;text-indent:  5pt;
+    text-align: center;
 }
-#p1{padding: 1;margin: 1;
-    }
+
+
+html{
+    background: url(https://static6.depositphotos.com/1002818/543/i/600/depositphotos_5433720-stock-photo-radiation-danger-zone.jpg) no-repeat  top center;
+    background-size: cover;
+}
+   
+    
