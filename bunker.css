@@ -20,6 +20,7 @@ li{
     font-size: 15pt;
     color: #00ff00;
     list-style-type: square;
+    list-style-type: none;
 }
 .v1{
     text-align: left;
